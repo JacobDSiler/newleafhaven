@@ -1,0 +1,13 @@
+.headline {
+    font-weight: bolder;
+    font-size: 2rem;
+
+  &__main {
+    text-align: center;
+    font-weight: 400;
+  }
+
+  &__subtitle {
+    text-align: right;
+  }
+}
